@@ -1,0 +1,11 @@
+<ul>
+<li> water </li>
+<li> tea </li>
+<li> fruit juice
+<ul>
+<li> orange </li>
+<li> apple </li>
+<li> mango </li>
+</ul>
+</li>
+</ul>
